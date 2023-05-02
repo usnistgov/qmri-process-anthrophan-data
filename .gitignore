@@ -1,0 +1,7 @@
+.DS_Store
+**/.DS_Store
+.idea
+.ipynb_checkpoints
+**/__pycache__/**
+examples/output_data
+debug_scripts
